@@ -1,0 +1,28 @@
+{
+	"data": [
+	{
+		"articleId": 13,
+		"title": "Test title 1",
+		"published": "2023-08-10 22:31:23",
+		"photo": "photos/test-photo-1.jpg"
+	},
+	{
+		"articleId": 14,
+		"title": "Test title 2",
+		"published": "2023-08-10 22:31:23",
+		"photo": "photos/test-photo-2.jpg"
+	},
+	{
+		"articleId": 15,
+		"title": "Test title 3",
+		"published": "2023-08-10 22:31:23",
+		"photo": "photos/test-photo-3.jpg"
+	},
+	{
+		"articleId": 16,
+		"title": "Test title 4",
+		"published": "2023-08-10 22:31:23",
+		"photo": "photos/test-photo-4.jpg"
+	}
+	]
+}
